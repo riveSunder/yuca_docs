@@ -12,9 +12,9 @@
 
 * ArXiv -> [https://arxiv.org/abs/2204.07541](https://arxiv.org/abs/2204.07541)
 * [Blog post](https://rivesunder.github.io/yuca_docs/evo_abio)
-* [Summary poster](https://raw.githubusercontent.com/riveSunder/yuca_docs/gecco_2022_pages/assets/halting_evo/pos237s1.pdf)
+* [Summary poster](https://raw.githubusercontent.com/riveSunder/yuca_docs/master/assets/halting_evo/pos237s1.pdf)
 * [Notebook](https://github.com/riveSunder/yuca_docs/blob/master/notebooks/halting_evo.ipynb) Try it on: [mybinder](https://mybinder.org/v2/gh/rivesunder/yuca_docs/master?labpath=notebooks%2Fhalting_evo.ipynb) -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rivesunder/yuca_docs/master?labpath=notebooks%2Fhalting_evo.ipynb), [colab](https://colab.research.google.com/github/rivesunder/yuca_docs/blob/master/notebooks/halting_evo.ipynb) -> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rivesunder/yuca_docs/blob/master/notebooks/halting_evo.ipynb) 
-* [Bokeh app glider demo -- watch evolved gliders](https://mybinder.org/v2/gh/riveSunder/yuca_docs/gecco_2022_pages?urlpath=/proxy/5006/gecco_bokeh_app) Note that this runs on [mybinder.org](https://mybinder.org), a great free cloud notebook service that can be a little slow. 
+* [Bokeh app glider demo -- watch evolved gliders](https://mybinder.org/v2/gh/riveSunder/yuca_docs/master?urlpath=/proxy/5006/gecco_bokeh_app) Note that this runs on [mybinder.org](https://mybinder.org), a great free cloud notebook service that can be a little slow. 
 
 <br><br>
 ####  Davis, Q, Tyrell and Bongard, Josh. Step Size is a Consequential Parameter in Continuous Cellular Automata. The 2022 Conference on Artificial Life. (2022). [https://doi.org/10.1162/isal_a_00526](https://doi.org/10.1162/isal_a_00526)
